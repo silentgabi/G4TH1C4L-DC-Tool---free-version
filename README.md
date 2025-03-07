@@ -5,7 +5,7 @@
 
 
 
-## <h1 align="center">[3TH1C4L] - MultiTool Designed for Networking, Pentesting, Osint, Discord, and Much More</h1> 
+## <h1 align="center">[G4TH1C4L] - MultiTool Designed for Networking, Pentesting, Osint, Discord, and Much More</h1> 
 
 - Developed 100% in Python
 - Fully Open Source & Free Forever
